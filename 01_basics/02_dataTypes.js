@@ -9,3 +9,5 @@ console.log("Lakhan")
 let name = "Lakhan"
 let age = 26
 let isLoggedIn = false
+ 
+console.log(typeof "Lakhan");
